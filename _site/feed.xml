@@ -5,23 +5,9 @@
     <description>Periyar 143 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Aug 2021 10:46:49 -0500</pubDate>
-    <lastBuildDate>Tue, 31 Aug 2021 10:46:49 -0500</lastBuildDate>
+    <pubDate>Tue, 31 Aug 2021 10:50:37 -0500</pubDate>
+    <lastBuildDate>Tue, 31 Aug 2021 10:50:37 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
-    
-      <item>
-        <title>Guest Speakers</title>
-        <description>&lt;p&gt;Our expert speakers will explore topics on Globalizing Humanism, Social Justice, Building Young Minds and Secular Ideas.&lt;/p&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Day/Date&lt;/td&gt; &lt;td&gt;Saturday, 19.Sep.2020&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Time&lt;/td&gt; &lt;td&gt;10 AM (CST) | 11 AM (EST) | 9 AM (PST) | 8:30 PM (TAMILNADU)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Meeting Link&lt;/td&gt; &lt;td&gt;&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/j/87673250276&quot;&gt;Click to Join: https://us02web.zoom.us/j/87673250276&lt;/a&gt;&lt;br /&gt;Meeting ID: 876 7325 0276&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Globalizing Humanism and Social Justice&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt; &lt;strong&gt;Madhan Karky Vairamuthu&lt;/strong&gt; is an Tamil lyricist, screenwriter, research associate, software engineer, and entrepreneur. A holder of a doctorate in computer science from the University of Queensland, Karky began his professional career as an...</description>
-        <pubDate>Mon, 30 Aug 2021 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/speakers/</link>
-        <guid isPermaLink="true">http://localhost:4000/speakers/</guid>
-        
-        <category>Guests</category>
-        
-        <category>Speakers</category>
-        
-        <category>Speakers</category>
-      </item>
     
       <item>
         <title>Periyar 143 - Birthday Celebrations</title>
@@ -93,6 +79,20 @@ Gurnee, Illinois -60031
         <category>donate</category>
         
         <category>Support</category>
+      </item>
+    
+      <item>
+        <title>Guest Speakers</title>
+        <description>&lt;p&gt;Our expert speakers will explore topics on Globalizing Humanism, Social Justice, Building Young Minds and Secular Ideas.&lt;/p&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Day/Date&lt;/td&gt; &lt;td&gt;Saturday, 19.Sep.2020&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Time&lt;/td&gt; &lt;td&gt;10 AM (CST) | 11 AM (EST) | 9 AM (PST) | 8:30 PM (TAMILNADU)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Meeting Link&lt;/td&gt; &lt;td&gt;&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/j/87673250276&quot;&gt;Click to Join: https://us02web.zoom.us/j/87673250276&lt;/a&gt;&lt;br /&gt;Meeting ID: 876 7325 0276&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Globalizing Humanism and Social Justice&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt; &lt;strong&gt;Madhan Karky Vairamuthu&lt;/strong&gt; is an Tamil lyricist, screenwriter, research associate, software engineer, and entrepreneur. A holder of a doctorate in computer science from the University of Queensland, Karky began his professional career as an...</description>
+        <pubDate>Fri, 27 Aug 2021 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/speakers/</link>
+        <guid isPermaLink="true">http://localhost:4000/speakers/</guid>
+        
+        <category>Guests</category>
+        
+        <category>Speakers</category>
+        
+        <category>Speakers</category>
       </item>
     
   </channel>

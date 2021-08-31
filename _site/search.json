@@ -3,14 +3,6 @@
   
   
     {
-      "title"    : "Guest Speakers",
-      "tags"     : "Guests and Speakers",
-      "categories" : "Speakers",
-      "url"      : "/speakers/",
-      "date"     : "08/30/2021"
-    } ,
-  
-    {
       "title"    : "Periyar 143 - Birthday Celebrations",
       "tags"     : "welcome and invitation",
       "categories" : "invitation",
@@ -40,6 +32,14 @@
       "categories" : "Support",
       "url"      : "/donate/",
       "date"     : "08/29/2021"
+    } ,
+  
+    {
+      "title"    : "Guest Speakers",
+      "tags"     : "Guests and Speakers",
+      "categories" : "Speakers",
+      "url"      : "/speakers/",
+      "date"     : "08/27/2021"
     } 
   
 ]
