@@ -1,7 +1,7 @@
 # Site Settings
-name: Periyar 142
-title: Periyar 142 
-description: Periyar 142 - Birthday Celebrations
+name: Periyar 143
+title: Periyar 143 
+description: Periyar 143 - Birthday Celebrations
 tags:
   - blog
   - template
@@ -20,7 +20,7 @@ menu:
     url: /competition
   - title: Donate
     url: /donate
-email: periyar142@gmail.com
+email: program@periyar143.info
 disqus_username: Periyar-International
 
 

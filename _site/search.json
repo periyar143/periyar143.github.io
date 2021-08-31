@@ -1,0 +1,37 @@
+[
+  
+  
+  
+    {
+      "title"    : "Periyar 143 - Birthday Celebrations",
+      "tags"     : "Welcome, Zoom, and Link",
+      "categories" : "ZoomLink",
+      "url"      : "/join/",
+      "date"     : "08/30/2021"
+    } ,
+  
+    {
+      "title"    : "Guest Speakers",
+      "tags"     : "Guests and Speakers",
+      "categories" : "Speakers",
+      "url"      : "/speakers/",
+      "date"     : "09/18/2020"
+    } ,
+  
+    {
+      "title"    : "Periyar 143 - Birthday Celebrations",
+      "tags"     : "welcome and invitation",
+      "categories" : "invitation",
+      "url"      : "/welcome/",
+      "date"     : "09/06/2020"
+    } ,
+  
+    {
+      "title"    : "Support",
+      "tags"     : "support and donate",
+      "categories" : "Support",
+      "url"      : "/donate/",
+      "date"     : "09/03/2020"
+    } 
+  
+]
