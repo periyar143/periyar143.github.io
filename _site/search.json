@@ -35,10 +35,10 @@
     } ,
   
     {
-      "title"    : "Guest Speakers",
-      "tags"     : "Guests and Speakers",
-      "categories" : "Speakers",
-      "url"      : "/speakers/",
+      "title"    : "Registration",
+      "tags"     : "Registration",
+      "categories" : "",
+      "url"      : "/register/",
       "date"     : "08/27/2021"
     } 
   
