@@ -3,6 +3,22 @@
   
   
     {
+      "title"    : "Guest Speakers",
+      "tags"     : "Guests and Speakers",
+      "categories" : "Speakers",
+      "url"      : "/speakers/",
+      "date"     : "08/30/2021"
+    } ,
+  
+    {
+      "title"    : "Periyar 143 - Birthday Celebrations",
+      "tags"     : "welcome and invitation",
+      "categories" : "invitation",
+      "url"      : "/welcome/",
+      "date"     : "08/30/2021"
+    } ,
+  
+    {
       "title"    : "Periyar 143 - Birthday Celebrations",
       "tags"     : "Welcome, Zoom, and Link",
       "categories" : "ZoomLink",
@@ -11,19 +27,11 @@
     } ,
   
     {
-      "title"    : "Guest Speakers",
-      "tags"     : "Guests and Speakers",
-      "categories" : "Speakers",
-      "url"      : "/speakers/",
-      "date"     : "09/18/2020"
-    } ,
-  
-    {
-      "title"    : "Periyar 143 - Birthday Celebrations",
-      "tags"     : "welcome and invitation",
-      "categories" : "invitation",
-      "url"      : "/welcome/",
-      "date"     : "09/06/2020"
+      "title"    : "Events",
+      "tags"     : "speech-competition and youth",
+      "categories" : "Events",
+      "url"      : "/events/",
+      "date"     : "08/29/2021"
     } ,
   
     {
@@ -31,7 +39,7 @@
       "tags"     : "support and donate",
       "categories" : "Support",
       "url"      : "/donate/",
-      "date"     : "09/03/2020"
+      "date"     : "08/29/2021"
     } 
   
 ]

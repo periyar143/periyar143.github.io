@@ -5,9 +5,37 @@
     <description>Periyar 143 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Aug 2021 09:23:08 -0500</pubDate>
-    <lastBuildDate>Tue, 31 Aug 2021 09:23:08 -0500</lastBuildDate>
+    <pubDate>Tue, 31 Aug 2021 10:46:49 -0500</pubDate>
+    <lastBuildDate>Tue, 31 Aug 2021 10:46:49 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
+    
+      <item>
+        <title>Guest Speakers</title>
+        <description>&lt;p&gt;Our expert speakers will explore topics on Globalizing Humanism, Social Justice, Building Young Minds and Secular Ideas.&lt;/p&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Day/Date&lt;/td&gt; &lt;td&gt;Saturday, 19.Sep.2020&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Time&lt;/td&gt; &lt;td&gt;10 AM (CST) | 11 AM (EST) | 9 AM (PST) | 8:30 PM (TAMILNADU)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Meeting Link&lt;/td&gt; &lt;td&gt;&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/j/87673250276&quot;&gt;Click to Join: https://us02web.zoom.us/j/87673250276&lt;/a&gt;&lt;br /&gt;Meeting ID: 876 7325 0276&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Globalizing Humanism and Social Justice&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt; &lt;strong&gt;Madhan Karky Vairamuthu&lt;/strong&gt; is an Tamil lyricist, screenwriter, research associate, software engineer, and entrepreneur. A holder of a doctorate in computer science from the University of Queensland, Karky began his professional career as an...</description>
+        <pubDate>Mon, 30 Aug 2021 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/speakers/</link>
+        <guid isPermaLink="true">http://localhost:4000/speakers/</guid>
+        
+        <category>Guests</category>
+        
+        <category>Speakers</category>
+        
+        <category>Speakers</category>
+      </item>
+    
+      <item>
+        <title>Periyar 143 - Birthday Celebrations</title>
+        <description>&lt;p&gt;&lt;strong&gt;Thanthai Periyar&lt;/strong&gt; – the father of Modern Dravidian movement – a true visionary who propounded rationalism, a fierce leader who defied all odds, a leader without borders and boundaries dedicated his entire life to the fight against inequality and social injustice in striving to establish an egalitarian society. To eradicate Casteism in Indian society following the dictates of the Hindu religion where people are enslaved based on discrimination at birth. Indian Caste system earmarked at birth was dictated and cleverly manipulated by the Hindu religious doctrine which sets a top-down social structure of oppression that differentiates individuals based on birth...</description>
+        <pubDate>Mon, 30 Aug 2021 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome/</guid>
+        
+        <category>welcome</category>
+        
+        <category>invitation</category>
+        
+        <category>invitation</category>
+      </item>
     
       <item>
         <title>Periyar 143 - Birthday Celebrations</title>
@@ -26,31 +54,17 @@
       </item>
     
       <item>
-        <title>Guest Speakers</title>
-        <description>&lt;p&gt;Our expert speakers will explore topics on Globalizing Humanism, Social Justice, Building Young Minds and Secular Ideas.&lt;/p&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;Day/Date&lt;/td&gt; &lt;td&gt;Saturday, 19.Sep.2020&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Time&lt;/td&gt; &lt;td&gt;10 AM (CST) | 11 AM (EST) | 9 AM (PST) | 8:30 PM (TAMILNADU)&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;Meeting Link&lt;/td&gt; &lt;td&gt;&lt;p&gt;&lt;a href=&quot;https://us02web.zoom.us/j/87673250276&quot;&gt;Click to Join: https://us02web.zoom.us/j/87673250276&lt;/a&gt;&lt;br /&gt;Meeting ID: 876 7325 0276&lt;/p&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;blockquote&gt; &lt;p&gt;&lt;strong&gt;Globalizing Humanism and Social Justice&lt;/strong&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt; &lt;strong&gt;Madhan Karky Vairamuthu&lt;/strong&gt; is an Tamil lyricist, screenwriter, research associate, software engineer, and entrepreneur. A holder of a doctorate in computer science from the University of Queensland, Karky began his professional career as an...</description>
-        <pubDate>Fri, 18 Sep 2020 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/speakers/</link>
-        <guid isPermaLink="true">http://localhost:4000/speakers/</guid>
+        <title>Events</title>
+        <description>&lt;p&gt;“Speech is power: speech is to persuade, to convert, to compel.” — Ralph Waldo Emerson, an American essayist and lecturer As we are getting ready to celebrate the life and legacy of Periyar Ayya, on his 142nd birthday, we think it would be very fitting for our youth to engage in a heartfelt rhetorical session learning about what turned a common man EVR into “Periyar” indeed. Our intent is to encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect… just the way Periyar did. In an effort to follow...</description>
+        <pubDate>Sun, 29 Aug 2021 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/events/</link>
+        <guid isPermaLink="true">http://localhost:4000/events/</guid>
         
-        <category>Guests</category>
+        <category>speech-competition</category>
         
-        <category>Speakers</category>
+        <category>youth</category>
         
-        <category>Speakers</category>
-      </item>
-    
-      <item>
-        <title>Periyar 143 - Birthday Celebrations</title>
-        <description>&lt;p&gt;&lt;strong&gt;Thanthai Periyar&lt;/strong&gt; – the father of Modern Dravidian movement – a true visionary who propounded rationalism, a fierce leader who defied all odds, a leader without borders and boundaries dedicated his entire life to the fight against inequality and social injustice in striving to establish an egalitarian society. To eradicate Casteism in Indian society following the dictates of the Hindu religion where people are enslaved based on discrimination at birth. Indian Caste system earmarked at birth was dictated and cleverly manipulated by the Hindu religious doctrine which sets a top-down social structure of oppression that differentiates individuals based on birth...</description>
-        <pubDate>Sun, 06 Sep 2020 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/welcome/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome/</guid>
-        
-        <category>welcome</category>
-        
-        <category>invitation</category>
-        
-        <category>invitation</category>
+        <category>Events</category>
       </item>
     
       <item>
@@ -70,7 +84,7 @@ Gurnee, Illinois -60031
 &lt;p&gt;When sending a check, please provide the name and address for notification.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 03 Sep 2020 19:00:00 -0500</pubDate>
+        <pubDate>Sun, 29 Aug 2021 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/donate/</link>
         <guid isPermaLink="true">http://localhost:4000/donate/</guid>
         
