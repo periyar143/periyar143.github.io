@@ -4,7 +4,7 @@ layout: post
 title: Maruvedam
 subtitle: 'Showcase your acting talent'
 description: >-
-  Periyar International invites everyone to join virtually to celebrate Periyar's 142nd birthday.
+  Periyar International invites everyone to join virtually to celebrate Periyar's 143rd birthday.
 image: >-
   https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
 optimized_image: >-
@@ -17,40 +17,17 @@ author: Periyar-International
 paginate: false
 ---
 
-<strong>Periyar International USA</strong> invites everyone to join to celebrate <strong>Thanthai Periyar's 143rd Birthday</strong> and encourage the young minds on <strong>18.Sep.2021</strong>. The Zoom online meeting links for the Birthday celebration will provided later.
-sss
-<!-- 
-<table>
-  <tbody>
-    <tr>
-      <td colspan=2><strong>Speech Competition</strong><br/>2 PM (CST) - 3 PM (EST) - 12 PM (PST)</td>
-    </tr>
-    <tr>
-      <td>Age Group</td>
-      <td>Meeting Link</td>
-    </tr>
-    <tr>
-      <td>5 to 7</td>
-      <td><p><a href='https://us02web.zoom.us/j/83976565563'>https://us02web.zoom.us/j/83976565563</a><br/>Meeting ID: 839 7656 5563</p>
-      </td>
-    </tr>
-    <tr>
-      <td>8 to 10</td>
-      <td><p><a href='https://us02web.zoom.us/j/87407061357'>https://us02web.zoom.us/j/87407061357</a><br/>Meeting ID: 874 0706 1357</p>
-      </td>
-    </tr>
-      <tr>
-      <td>11 to 17</td>
-      <td><p><a href='https://us02web.zoom.us/j/88295199460'>https://us02web.zoom.us/j/88295199460</a><br/>Meeting ID: 882 9519 9460</p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan=2><strong>Grand Finale, Prize Distribution and Celebration note(s)</strong><br/>5 PM (CST) - 6 PM (EST) - 3 PM (PST)</td>
-    </tr>
-    <tr>
-      <td colspan=2><p><a href='https://us02web.zoom.us/j/86446518003'>https://us02web.zoom.us/j/86446518003</a><br/>Meeting ID: 864 4651 8003</p></td>
-    </tr>
-  </tbody>
-</table>
--->
+<strong>Periyar International USA</strong> encourage kids to outgrow in speech modulation, to act, and demonstrate the ability of courage and equality. On the occasion of Periyar's 143rd birthday, we are introducing the mono acting event. The actor would represent one of the Dravidian leaders and outline their significant contribution to uplift the community. The actor may dress up as the leader, outline the contribution, end with a question, "Who am I" and the audience would find the leader's name or  the actor reveals the "Leader Name."
+
+
+## Rules / Guidelines
+
+* The students must be in North/South America (USA,Canada, Mexico and Others)
+* The student must register to participate in the competition
+* No fee is associated with the registration
+* The time must not exceed two (2) minutes
+* **Leaders:** Periyar E V R, Nagammai, Maniammai, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian, Arignar Anna, Kalaignar Karunanidhi
+
+<a  href="https://www.periyar143.info/register/">Register</a>
+
 If you have any questions or further inquiries, please contact Dr.Soma Illangovan +1 (708) 361-1998.

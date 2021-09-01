@@ -51,6 +51,14 @@
     } ,
   
     {
+      "title"    : "Periyar Quote Recital",
+      "tags"     : "PeriyarQuotes and events",
+      "categories" : "Periyar Quote Recital",
+      "url"      : "/Quote/",
+      "date"     : "08/28/2021"
+    } ,
+  
+    {
       "title"    : "Drawing",
       "tags"     : "drawing and events",
       "categories" : "Drawing",
