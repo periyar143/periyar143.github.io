@@ -1,19 +1,18 @@
 ---
-date: 2021-08-31T00:00:00.000Z
+date: 2021-08-29T00:00:00.000Z
 layout: post
-title: Periyar 143 - Birthday Celebrations
-subtitle: 'Join Online - Meeting links are available here'
+title: Maruvedam
+subtitle: 'Showcase your acting talent'
 description: >-
   Periyar International invites everyone to join virtually to celebrate Periyar's 142nd birthday.
 image: >-
-  https://res.cloudinary.com/periyar142/image/upload/v1600560100/Periyar142Birthday_dzw5sv.png
+  https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1600560100/Periyar142Birthday_dzw5sv.png
-category: ZoomLink
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450301/Maruvedam_ppgszl.jpg
+category: Monoacting
 tags:
-  - Welcome
-  - Zoom
-  - Link
+  - monoacting
+  - events
 author: Periyar-International
 paginate: false
 ---

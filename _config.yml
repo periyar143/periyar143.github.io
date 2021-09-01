@@ -14,9 +14,7 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Speakers
-    url: /speakers
-  - title: Programs
+  - title: Events
     url: /events
   - title: Donate
     url: /donate
