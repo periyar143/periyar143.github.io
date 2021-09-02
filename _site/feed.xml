@@ -5,8 +5,8 @@
     <description>Periyar 143 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Sep 2021 13:13:40 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Sep 2021 13:13:40 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Sep 2021 20:23:01 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Sep 2021 20:23:01 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -104,36 +104,6 @@
         <category>events</category>
         
         <category>Essay Writing</category>
-      </item>
-    
-      <item>
-        <title>Periyar Quote Recital</title>
-        <description>&lt;p&gt;&lt;strong&gt;Periyar International USA&lt;/strong&gt; encourage kids to learn Periyar’s quote and reflect it to represent social justice, self-respect and equality. On the occasion of Periyar’s 143rd birthday, we are inviting kids to recite Periyar’s quote&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Individual registered participant will receive the quotes in an e-mail&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;rules--guidelines&quot;&gt;Rules / Guidelines&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The students must be in North/South America (USA,Canada, Mexico and Others)&lt;/li&gt;
-  &lt;li&gt;The student must register to participate in the competition&lt;/li&gt;
-  &lt;li&gt;No fee is associated with the registration&lt;/li&gt;
-  &lt;li&gt;The last date for submission is 15.Sep.2021&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.periyar143.info/register/&quot;&gt;Register&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 28 Aug 2021 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/Quote/</link>
-        <guid isPermaLink="true">http://localhost:4000/Quote/</guid>
-        
-        <category>PeriyarQuotes</category>
-        
-        <category>events</category>
-        
-        <category>Periyar Quote Recital</category>
       </item>
     
       <item>
