@@ -4,7 +4,7 @@ layout: post
 title: Maruvedam
 subtitle: 'Showcase your acting talent'
 description: >-
-  Periyar International invites everyone to join virtually to celebrate Periyar's 143rd birthday.
+  Dressing up and acting out stories with power & conviction. Drama is a very compelling way for child actors to walk around in the “world of the leaders  who have made a difference to mankind”...to experience what they experienced; to feel, in a very real way, the emotions that such scenarios raise; and to internalize the activists’ interpretation of these experiences is indeed a moment of joy, realization and experience not just for them but also the witnessing audience members.
 image: >-
   https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
 optimized_image: >-
