@@ -32,6 +32,6 @@ Dressing up and acting out stories with power & conviction… Drama is a very co
 * **Leaders:** Periyar E V R, Arignar Anna, Nagammai, Maniammai,Kalaignar Karunanidhi, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian
 * Inform us via email(events@periyarinternational.org) your choice of character
 * You may choose to say a quote of that leader or what they did to make a difference
-
+* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
 
 **Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
