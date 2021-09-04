@@ -23,10 +23,11 @@ Dressing up and acting out stories with power & conviction… Drama is a very co
 
 ## Rules / Guidelines
 
-* The participant must reside in North America (USA,Canada, and Mexico) 
-* The participant must 18 years or under
-* The participant must register to participate in any competition
-* Registration is free
+* Participant must reside in North America (USA,Canada, and Mexico) 
+* Participant must 18 years or under
+* Participant must register to participate in any competition
+* Registration is FREE
+* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
 * The time must not exceed two (2) minutes
 * **Leaders:** Periyar E V R, Arignar Anna,Kalaignar Karunanidhi, Nagammai, Maniammai, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian
 * Inform us via email(events@periyarinternational.org) your choice of character
