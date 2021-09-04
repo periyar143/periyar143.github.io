@@ -19,7 +19,7 @@ paginate: false
 
 Dressing up and acting out stories with power & conviction… Drama is a very compelling way for child actors to walk around in the “world of the leaders  who have made a difference to mankind”… to experience what they experienced; to feel, in a very real way, the emotions that such scenarios raise; and to internalize the activists’ interpretation of these experiences is indeed a moment of joy, realization and experience not just for them but also the witnessing audience members.
 
-<a  href="https://www.periyar143.info/register/">Click here Register</a>
+<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
 
 ## Rules / Guidelines
 
@@ -31,6 +31,6 @@ Dressing up and acting out stories with power & conviction… Drama is a very co
 * Inform us via email(events@periyarinternational.org) your choice of character
 * You may choose to say a quote of that leader or what they did to make a difference
 
-<a  href="https://www.periyar143.info/register/">Click here Register</a>
+<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
 
 If you have any questions or further inquiries, please contact Dr.Soma Illangovan +1 (708) 361-1998.
