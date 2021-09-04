@@ -29,7 +29,7 @@ Dressing up and acting out stories with power & conviction… Drama is a very co
 * Registration is FREE
 * Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
 * The time must not exceed two (2) minutes
-* **Leaders:** Periyar E V R, Arignar Anna,Kalaignar Karunanidhi, Nagammai, Maniammai, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian
+* **Leaders:** Periyar E V R, Arignar Anna, Nagammai, Maniammai,Kalaignar Karunanidhi, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian
 * Inform us via email(events@periyarinternational.org) your choice of character
 * You may choose to say a quote of that leader or what they did to make a difference
 
