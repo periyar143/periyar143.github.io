@@ -24,7 +24,7 @@ Dressing up and acting out stories with power & conviction… Drama is a very co
 ## Rules / Guidelines
 
 * Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must 18 years or under
+* Participant must be 18 years or under
 * Participant must register to participate in any competition
 * Registration is FREE
 * Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
