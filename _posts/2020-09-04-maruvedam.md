@@ -19,7 +19,11 @@ paginate: false
 
 Dressing up and acting out stories with power & conviction… Drama is a very compelling way for child actors to walk around in the “world of the leaders  who have made a difference to mankind”… to experience what they experienced; to feel, in a very real way, the emotions that such scenarios raise; and to internalize the activists’ interpretation of these experiences is indeed a moment of joy, realization and experience not just for them but also the witnessing audience members.
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+**Join Zoom Meeting:** <a href="https://us02web.zoom.us/j/81495294973?pwd=L3pQOG5FN00wT0tCSnVlZTk3ckpSdz09">https://us02web.zoom.us/j/81495294973?pwd=L3pQOG5FN00wT0tCSnVlZTk3ckpSdz09</a>
+
+**Meeting ID:** 814 9529 4973
+
+**Passcode:** periyar
 
 ## Rules / Guidelines
 
